@@ -4,30 +4,33 @@
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://cdna.artstation.com/p/assets/images/images/011/488/308/large/shi-mingjia-2color-7.jpg?1529857233",
+      "title": "When does the first night start?",
       "description": "Essa é pra aquecer",
-      "answer": 2,
+      "answer": 0,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "At minute 4:00",
+        "At minute 5:00",
+        "At minute 6:00",
+        "At minute 10:00"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
+      "image": "https://i2.wp.com/www.selectgame.com.br/wp-content/uploads/2019/06/Dota-2-KeyArt-Wallpaper.jpg?fit=1332%2C850&ssl=1",
+      "title": "Pick one set of the neutral creeps that can't spawn in the medium camp.",
       "description": "Faz tempo em haha",
-      "answer": 0,
+      "answer": 2,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Centaur camp",
+         "Mud Golems",
+         "Hellbear camp",
+         "Wolf camp"
       ]
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-marvel.omariosouto.vercel.app/"
   ],
   "theme": {
     "colors": {
