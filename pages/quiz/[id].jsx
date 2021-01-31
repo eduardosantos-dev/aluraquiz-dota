@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
 import { ThemeProvider } from 'styled-components';
-import QuizScreen from '../screens/Quiz';
+import QuizScreen from '../../src/screens/Quiz';
 
 export default function QuizDaGaleraPage({ dbExterno }) {
   return (

@@ -1,14 +1,14 @@
 /* eslint-disable react/prop-types */
 import React, { useState, useEffect } from 'react';
 // import db from '../../../db.json';
-import Widget from '../../../src/components/Widget';
-import QuizBackground from '../../../src/components/QuizBackground';
-import QuizLogo from '../../../src/components/QuizLogo';
-import QuizContainer from '../../../src/components/QuizContainer';
-import Button from '../../../src/components/Button';
-import GitHubCorner from '../../../src/components/GitHubCorner';
-import AlternativesForm from '../../../src/components/AlternativesForm';
-import BackLinkArrow from '../../../src/components/BackLinkArrow';
+import Widget from '../../components/Widget';
+import QuizBackground from '../../components/QuizBackground';
+import QuizLogo from '../../components/QuizLogo';
+import QuizContainer from '../../components/QuizContainer';
+import Button from '../../components/Button';
+import GitHubCorner from '../../components/GitHubCorner';
+import AlternativesForm from '../../components/AlternativesForm';
+import BackLinkArrow from '../../components/BackLinkArrow';
 
 function LoadingWidget() {
   return (
